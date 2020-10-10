@@ -23,6 +23,3 @@ My name is Sean Kim and this is my portfolio, to practice my data analysis and m
 
 # Natural Language Processing
 
-
-
-
